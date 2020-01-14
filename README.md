@@ -34,10 +34,11 @@ test에서는 약 10초 분량의 동영상에서 초당 20 frame으로 이미�
 ## 4. auto_labeling_v1.py  동작 결과
 
 1) 첫 frame은 사용자가 직접 labeling 후 'w'키 입력  
-<img width="271" alt="스크린샷, 2020-01-15 05-58-29" src="https://user-images.githubusercontent.com/46870741/72382462-a8660a80-375c-11ea-8333-29e021d8f0ac.png">
+![스크린샷, 2020-01-15 06-00-59](https://user-images.githubusercontent.com/46870741/72382463-a8660a80-375c-11ea-8dea-6e15dfe98d5c.png)
+
 
 2) AUTO labeling
-![스크린샷, 2020-01-15 06-00-59](https://user-images.githubusercontent.com/46870741/72382463-a8660a80-375c-11ea-8dea-6e15dfe98d5c.png)
+<img width="271" alt="스크린샷, 2020-01-15 05-58-29" src="https://user-images.githubusercontent.com/46870741/72382462-a8660a80-375c-11ea-8333-29e021d8f0ac.png">
 
 3) test video
 
