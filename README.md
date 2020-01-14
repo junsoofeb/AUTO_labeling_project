@@ -6,8 +6,7 @@
 자동으로 labeling을 해주고 xml파일을 생성해주는 프로그램 개발. 
 (auto_labeling_v1.py)
 
-[![youtube영상](<https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be>)
-
+[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72382711-393ce600-375d-11ea-8845-56a1f123f107.jpg)](https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be)
 
 
 ## 2. 구현 환경
@@ -41,5 +40,5 @@ test에서는 약 10초 분량의 동영상에서 초당 20 frame으로 이미�
 ![스크린샷, 2020-01-15 06-00-59](https://user-images.githubusercontent.com/46870741/72382463-a8660a80-375c-11ea-8dea-6e15dfe98d5c.png)
 
 3) test video
-[![youtube영상](<https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be>)
 
+[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72382711-393ce600-375d-11ea-8845-56a1f123f107.jpg)](https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be)
