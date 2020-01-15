@@ -8,7 +8,7 @@
 
 #### 머그컵 labeling test video
 
-[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72448102-d77e8980-37f9-11ea-8499-3804fb5c35fa.jpg)](https://www.youtube.com/watch?v=zoCb9Vpmg80)
+[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72448102-d77e8980-37f9-11ea-8499-3804fb5c35fa.jpg){: width="350" height="350"}](https://www.youtube.com/watch?v=zoCb9Vpmg80)
 
 
 ## 2. 구현 환경
@@ -45,4 +45,4 @@
 
 3) test video
 
-[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72382711-393ce600-375d-11ea-8845-56a1f123f107.jpg)](https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be)
+[![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72382711-393ce600-375d-11ea-8845-56a1f123f107.jpg){: width="350" height="350"}](https://www.youtube.com/watch?v=M7Mv7iFjq6Q&feature=youtu.be)
