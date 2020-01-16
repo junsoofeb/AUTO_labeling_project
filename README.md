@@ -20,7 +20,7 @@
 
 ## 3. dataset 준비
 
-### auto_labeling_v1.py은 동영상에서 추출한 이미지가 input_data이다.
+### 동영상에서 추출한 이미지가 입력 데이터!
 
 머그컵 labeling test에서는 약 24초 분량의 동영상에서 초당 30 frame으로 이미지를 추출하여 사용하였다. (726장 추출)  
 페트병 labeling test에서는 약 10초 분량의 동영상에서 초당 20 frame으로 이미지를 추출하여 사용하였다. (188장 추출)  
@@ -35,6 +35,9 @@
 5) 3,4단계를 마지막 frame까지 반복 수행한다.  
 
 ## 4. auto_labeling_v1.py  동작 결과 (페트병 예시)
+
+### AUTO_labeling_project/xml_files/xml_files.zip : 페트병 xml 압축 파일
+### AUTO_labeling_project/xml_files/cup_xml_files.zip : 머그컵 xml 압축 파일
 
 1) 첫 frame은 사용자가 직접 labeling 후 'w'키 입력  
 ![스크린샷, 2020-01-15 06-00-59](https://user-images.githubusercontent.com/46870741/72382463-a8660a80-375c-11ea-8dea-6e15dfe98d5c.png)
