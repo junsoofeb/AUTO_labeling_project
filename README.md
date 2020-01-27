@@ -7,6 +7,7 @@
 (auto_labeling_v1.py)
 
 #### 머그컵 labeling test video
+#### 빨간 사각형은 xml file에 저장될 x_min, y_min, x_max, y_max 값으로 그린 사각형
 
 [![youtube영상](![img000001](https://user-images.githubusercontent.com/46870741/72448102-d77e8980-37f9-11ea-8499-3804fb5c35fa.jpg)](https://www.youtube.com/watch?v=zoCb9Vpmg80)
 
